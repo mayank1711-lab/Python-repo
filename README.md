@@ -19,3 +19,5 @@
 
 # before running you may delete output.json file it will be created after run time
 # now run python test.py
+
+# at last run deactivate to exit from virtual environment.
